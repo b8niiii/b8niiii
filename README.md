@@ -7,6 +7,9 @@ I enjoy building applied AI systems at the intersection of research, product thi
 ## Selected work
 
 - [Cost-Aware Ensembling for News Relation Extraction](https://github.com/b8niiii/Ensembling) — my MSc thesis evaluates when combining small language models improves relation extraction from news articles enough to rightfully substitute an LLM.
+
+  ![Illustrative relation extraction example showing Lisbon as Maya Chen’s place of birth](./ensembling-demo.gif)
+
 - [LLM Agents in Negotiation](https://github.com/b8niiii/nlp-negotiation) — multi-agent negotiation experiments and prompt-based social learning.
 - [Market Basket Analysis](https://github.com/b8niiii/MarketBasket) — scalable frequent-itemset mining on IMDb co-star data.
 - [RAG-LAW](https://github.com/b8niiii/RAG-LAW) — semantic retrieval over legal codes with FAISS and sentence embeddings.
